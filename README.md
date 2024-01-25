@@ -34,7 +34,7 @@ going to walk through how to create a list of things marked up with HTML.
 ### Create a Text File with Content
 
 In your terminal, while still inside of this labs directory, create a new file
-called `my_list.txt` by running `touch my_list.txt`. The file extension suggests
+tcalled `my_list.txt` by running `touch my_list.txt`. The file extension suggests
 to humans and operating systems that it contains text. Open the file in VS Code
 by typing `code my_list.txt`; you will do all editing for this lesson in VS
 Code.
